@@ -1,0 +1,13 @@
+body{
+    background: lightyellow;
+}
+.curs{
+    font-style: italic;
+}
+.upText{
+    text-transform: uppercase;
+}
+.redColor{
+    color: rgb(134, 5, 5);
+    text-align: center;
+}
